@@ -1,0 +1,25 @@
+-- 1526540's Lua and Manifest Created by Hubcap Manifest
+-- Dungeons And Cat
+-- Created: August 28, 2026 at 09:48:07 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 6
+-- Total DLCs: 1
+
+-- MAIN APPLICATION
+addappid(1526540, 1, "9286b25dfed5fdb048dc63c19d896a3ea4b6b353e6e006f41598d42708aaef23") -- Dungeons And Cat
+-- MAIN APP DEPOTS
+addappid(1526541, 1, "5077549283abbbd1ced0cbe735ed8a17e35e8761c8f40698f13f38719182937f") -- Depot 1526541
+setManifestid(1526541, "6653636722005043450", 17382134357)
+-- DLCS WITH DEDICATED DEPOTS
+-- Dungeons And Cat - Artbook (AppID: 4976560)
+addappid(4976560)
+addappid(4976561, 1, "047907f006b1a03713056f1772b8c162d5da40dd39333da6e5e88f4cb791d6bb") -- Dungeons And Cat - Artbook - Depot 4976561
+setManifestid(4976561, "5803609328634280905", 31688447)
+addappid(4976562, 1, "5260ad6813eaa80e667fc28d65755c5b42fbf4259b5c972071c408841d42e9c8") -- Dungeons And Cat - Artbook - Depot 4976562
+setManifestid(4976562, "4742537092267916795", 31696331)
+addappid(4976563, 1, "14c3a7edee83e2e911a7cd99c7e677be820039f5ce4cf646a87c3c724b5a3179") -- Dungeons And Cat - Artbook - Depot 4976563
+setManifestid(4976563, "5646614068676147345", 31649889)
+addappid(4976564, 1, "d43dbfbf1177f14546d0e5c4f9c49e4664b0e411a9b7d27dad51d3ff01803734") -- Dungeons And Cat - Artbook - Depot 4976564
+setManifestid(4976564, "9019578531281323501", 31649888)
+addappid(4976565, 1, "4b6a667f7e5cf7696f18104d7c82f94777bc09f58e204081caba5226aa0b40d7") -- Dungeons And Cat - Artbook - Depot 4976565
+setManifestid(4976565, "7162759747428513101", 31687372)
